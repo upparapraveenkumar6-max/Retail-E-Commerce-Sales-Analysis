@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price
+1,Maybelline Fit Me Foundation,Foundation,Maybelline,599
+2,Lakme 9to5 Primer + Matte Lipstick,Lipstick,Lakme,499
+3,The Ordinary Niacinamide Serum,Serum,The Ordinary,699
+4,Neutrogena Sunscreen SPF 50,Sunscreen,Neutrogena,749
+5,Biotique Face Wash,Face Wash,Biotique,299
+6,Mamaearth Onion Shampoo,Hair Care,Mamaearth,399
+7,Nykaa Matte to Last Lipstick,Lipstick,Nykaa,549
+8,L'Oreal Paris Serum,Serum,L'Oreal,899
+9,Minimalist Vitamin C Serum,Serum,Minimalist,799
+10,Nivea Soft Moisturizer,Moisturizer,Nivea,329
+11,Lakme 9to5 Primer + Matte Lipstick Variant 11,Lipstick,Lakme,411
+12,Biotique Face Wash Variant 12,Face Wash,Biotique,324
+13,Neutrogena Sunscreen SPF 50 Variant 13,Sunscreen,Neutrogena,720
+14,Biotique Face Wash Variant 12 Variant 14,Face Wash,Biotique,276
+15,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15,Lipstick,Lakme,590
+16,Lakme 9to5 Primer + Matte Lipstick Variant 16,Lipstick,Lakme,615
+17,Lakme 9to5 Primer + Matte Lipstick Variant 17,Lipstick,Lakme,414
+18,The Ordinary Niacinamide Serum Variant 18,Serum,The Ordinary,710
+19,L'Oreal Paris Serum Variant 19,Serum,L'Oreal,1057
+20,Maybelline Fit Me Foundation Variant 20,Foundation,Maybelline,786
+21,Nykaa Matte to Last Lipstick Variant 21,Lipstick,Nykaa,728
+22,Biotique Face Wash Variant 12 Variant 14 Variant 22,Face Wash,Biotique,288
+23,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23,Lipstick,Lakme,632
+24,Maybelline Fit Me Foundation Variant 24,Foundation,Maybelline,580
+25,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 25,Lipstick,Lakme,748
+26,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 26,Lipstick,Lakme,453
+27,Biotique Face Wash Variant 27,Face Wash,Biotique,309
+28,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 25 Variant 28,Lipstick,Lakme,820
+29,Neutrogena Sunscreen SPF 50 Variant 29,Sunscreen,Neutrogena,696
+30,Neutrogena Sunscreen SPF 50 Variant 13 Variant 30,Sunscreen,Neutrogena,669
+31,Biotique Face Wash Variant 12 Variant 31,Face Wash,Biotique,400
+32,Maybelline Fit Me Foundation Variant 20 Variant 32,Foundation,Maybelline,821
+33,The Ordinary Niacinamide Serum Variant 33,Serum,The Ordinary,834
+34,L'Oreal Paris Serum Variant 34,Serum,L'Oreal,992
+35,Mamaearth Onion Shampoo Variant 35,Hair Care,Mamaearth,581
+36,L'Oreal Paris Serum Variant 19 Variant 36,Serum,L'Oreal,1142
+37,Neutrogena Sunscreen SPF 50 Variant 13 Variant 37,Sunscreen,Neutrogena,655
+38,The Ordinary Niacinamide Serum Variant 38,Serum,The Ordinary,715
+39,L'Oreal Paris Serum Variant 19 Variant 39,Serum,L'Oreal,997
+40,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 40,Lipstick,Lakme,541
+41,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 25 Variant 41,Lipstick,Lakme,790
+42,Neutrogena Sunscreen SPF 50 Variant 13 Variant 30 Variant 42,Sunscreen,Neutrogena,755
+43,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 43,Lipstick,Lakme,500
+44,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 44,Lipstick,Lakme,639
+45,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 43 Variant 45,Lipstick,Lakme,536
+46,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 43 Variant 45 Variant 46,Lipstick,Lakme,472
+47,L'Oreal Paris Serum Variant 19 Variant 39 Variant 47,Serum,L'Oreal,984
+48,Mamaearth Onion Shampoo Variant 35 Variant 48,Hair Care,Mamaearth,606
+49,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 49,Lipstick,Lakme,547
+50,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 25 Variant 50,Lipstick,Lakme,786
+51,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 25 Variant 41 Variant 51,Lipstick,Lakme,975
+52,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 52,Lipstick,Lakme,656
+53,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 25 Variant 50 Variant 53,Lipstick,Lakme,714
+54,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 54,Lipstick,Lakme,506
+55,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 52 Variant 55,Lipstick,Lakme,717
+56,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 26 Variant 56,Lipstick,Lakme,490
+57,Biotique Face Wash Variant 57,Face Wash,Biotique,307
+58,Neutrogena Sunscreen SPF 50 Variant 13 Variant 37 Variant 58,Sunscreen,Neutrogena,716
+59,Biotique Face Wash Variant 12 Variant 14 Variant 59,Face Wash,Biotique,431
+60,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 26 Variant 60,Lipstick,Lakme,587
+61,Nivea Soft Moisturizer Variant 61,Moisturizer,Nivea,364
+62,Minimalist Vitamin C Serum Variant 62,Serum,Minimalist,825
+63,Mamaearth Onion Shampoo Variant 35 Variant 48 Variant 63,Hair Care,Mamaearth,793
+64,Mamaearth Onion Shampoo Variant 35 Variant 64,Hair Care,Mamaearth,615
+65,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 52 Variant 55 Variant 65,Lipstick,Lakme,915
+66,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 52 Variant 66,Lipstick,Lakme,741
+67,Neutrogena Sunscreen SPF 50 Variant 29 Variant 67,Sunscreen,Neutrogena,666
+68,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 52 Variant 66 Variant 68,Lipstick,Lakme,893
+69,Biotique Face Wash Variant 12 Variant 69,Face Wash,Biotique,248
+70,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 70,Lipstick,Lakme,568
+71,Nykaa Matte to Last Lipstick Variant 21 Variant 71,Lipstick,Nykaa,844
+72,Minimalist Vitamin C Serum Variant 72,Serum,Minimalist,896
+73,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 49 Variant 73,Lipstick,Lakme,686
+74,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 52 Variant 66 Variant 68 Variant 74,Lipstick,Lakme,921
+75,Nykaa Matte to Last Lipstick Variant 21 Variant 71 Variant 75,Lipstick,Nykaa,749
+76,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 76,Lipstick,Lakme,764
+77,Mamaearth Onion Shampoo Variant 35 Variant 77,Hair Care,Mamaearth,655
+78,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 78,Lipstick,Lakme,640
+79,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 26 Variant 56 Variant 79,Lipstick,Lakme,470
+80,Biotique Face Wash Variant 12 Variant 14 Variant 59 Variant 80,Face Wash,Biotique,332
+81,L'Oreal Paris Serum Variant 34 Variant 81,Serum,L'Oreal,1148
+82,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 82,Lipstick,Lakme,791
+83,Biotique Face Wash Variant 12 Variant 14 Variant 83,Face Wash,Biotique,328
+84,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 23 Variant 82 Variant 84,Lipstick,Lakme,950
+85,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 78 Variant 85,Lipstick,Lakme,641
+86,Maybelline Fit Me Foundation Variant 20 Variant 86,Foundation,Maybelline,877
+87,Nykaa Matte to Last Lipstick Variant 21 Variant 87,Lipstick,Nykaa,904
+88,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 52 Variant 66 Variant 68 Variant 88,Lipstick,Lakme,793
+89,Mamaearth Onion Shampoo Variant 35 Variant 77 Variant 89,Hair Care,Mamaearth,720
+90,Mamaearth Onion Shampoo Variant 35 Variant 48 Variant 63 Variant 90,Hair Care,Mamaearth,702
+91,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 91,Lipstick,Lakme,675
+92,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 40 Variant 92,Lipstick,Lakme,563
+93,L'Oreal Paris Serum Variant 93,Serum,L'Oreal,922
+94,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 49 Variant 73 Variant 94,Lipstick,Lakme,626
+95,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 95,Lipstick,Lakme,559
+96,Minimalist Vitamin C Serum Variant 96,Serum,Minimalist,971
+97,Lakme 9to5 Primer + Matte Lipstick Variant 17 Variant 97,Lipstick,Lakme,379
+98,Lakme 9to5 Primer + Matte Lipstick Variant 11 Variant 15 Variant 78 Variant 85 Variant 98,Lipstick,Lakme,784
+99,Nykaa Matte to Last Lipstick Variant 21 Variant 71 Variant 99,Lipstick,Nykaa,828
+100,L'Oreal Paris Serum Variant 34 Variant 100,Serum,L'Oreal,1162
